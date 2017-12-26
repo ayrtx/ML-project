@@ -16,26 +16,27 @@ hmm_2.py is for part 5
 6. Run the file
 7. Output files are labeled as dev.PART_NO.out or test.PART_NO.out, where PART_NO is p2,p3,p4 or p5
 
+
 ## File Directory:
-Folder
-├──_CN
-   ├──dev.in
-   ├──dev.out
-   └──train
-├──_EN
-   ├──dev.in
-   ├──dev.out
-   ├──test.in
-   └──train
-├──_FR
-   ├──dev.in
-   ├──dev.out
-   ├──test.in
-   └──train
-├──_SG
-   ├──train
-   ├──dev.in
-   └──dev.out
-├──hmm.py
-├──hmm_2.py
-└──README.txt
+Folder<br>
+├──_CN<br>
+   ├──dev.in<br>
+   ├──dev.out<br>
+   └──train<br>
+├──_EN<br>
+   ├──dev.in<br>
+   ├──dev.out<br>
+   ├──test.in<br>
+   └──train<br>
+├──_FR<br>
+   ├──dev.in<br>
+   ├──dev.out<br>
+   ├──test.in<br>
+   └──train<br>
+├──_SG<br>
+   ├──train<br>
+   ├──dev.in<br>
+   └──dev.out<br>
+├──hmm.py<br>
+├──hmm_2.py<br>
+└──README.txt<br>
