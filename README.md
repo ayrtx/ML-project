@@ -20,23 +20,23 @@ hmm_2.py is for part 5
 ## File Directory:
 Folder<br>
 ├──_CN<br>
-   ├──dev.in<br>
-   ├──dev.out<br>
-   └──train<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──dev.in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──dev.out<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └──train<br>
 ├──_EN<br>
-   ├──dev.in<br>
-   ├──dev.out<br>
-   ├──test.in<br>
-   └──train<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──dev.in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──dev.out<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──test.in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └──train<br>
 ├──_FR<br>
-   ├──dev.in<br>
-   ├──dev.out<br>
-   ├──test.in<br>
-   └──train<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──dev.in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──dev.out<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──test.in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └──train<br>
 ├──_SG<br>
-   ├──train<br>
-   ├──dev.in<br>
-   └──dev.out<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──train<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├──dev.in<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └──dev.out<br>
 ├──hmm.py<br>
 ├──hmm_2.py<br>
 └──README.txt<br>
